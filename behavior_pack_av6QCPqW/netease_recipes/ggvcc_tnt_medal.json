@@ -1,0 +1,21 @@
+{
+    "format_version": "1.12",
+    "minecraft:recipe_furnace": {
+        "description": {
+            "identifier": "ggvcc:tnt_medal"
+        },
+        "input": {
+            "count": 1,
+            "data": 0,
+            "item": "minecraft:tnt"
+        },
+        "output": {
+            "count": 1,
+            "data": 0,
+            "item": "ggvcc:tnt_medal"
+        },
+        "tags": [
+            "furnace"
+        ]
+    }
+}

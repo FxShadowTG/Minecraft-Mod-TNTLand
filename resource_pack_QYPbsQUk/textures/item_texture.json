@@ -1,0 +1,12 @@
+{
+    "resource_pack_name": "vanilla",
+    "texture_data": {
+        "ggvcc:tnt_medal": {
+            "textures": "textures/items/tnt_medal"
+        },
+        "ggvcc:tnt_sword": {
+            "textures": "textures/items/tnt_sword"
+        }
+    },
+    "texture_name": "atlas.items"
+}

@@ -1,0 +1,48 @@
+{
+    "Addon": {
+        "EnchantSetting": {
+            "amplifier": 1
+        },
+        "PackResourceSortData": {
+            "1_ggvcc:entity": {
+                "createTime": 1688893448.0263562,
+                "modifyTime": 1688893460.1512818
+            },
+            "1_ggvcc:newillager": {
+                "createTime": 1688893001.190276,
+                "modifyTime": 1688893165.1862988
+            },
+            "1_minecraft:ender_crystal": {
+                "createTime": 1688893398.4464762,
+                "modifyTime": 1688895611.7723422
+            },
+            "2_ggvcc:item": {
+                "createTime": 1688895916.4244204,
+                "modifyTime": 1688895919.873349
+            },
+            "2_ggvcc:tnt_medal": {
+                "createTime": 1688894215.7265186,
+                "modifyTime": 1688894554.3686624
+            },
+            "2_ggvcc:tnt_sword": {
+                "createTime": 1688894249.5342824,
+                "modifyTime": 1688894434.3975725
+            },
+            "8_ggvcc:tnt_medal": {
+                "createTime": 1688894564.852167,
+                "modifyTime": 1688894703.1581976
+            },
+            "8_ggvcc:tnt_sword": {
+                "createTime": 1688894479.6125162,
+                "modifyTime": 1688894750.075946
+            }
+        },
+        "PlayerEffectSetting": {
+            "amplifier": 1,
+            "duration": 10
+        },
+        "PresetInstanceTreeData": [
+
+        ]
+    }
+}

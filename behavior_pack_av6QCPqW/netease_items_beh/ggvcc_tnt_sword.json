@@ -1,0 +1,23 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:max_damage": 1000,
+            "netease:customtips": {
+                "value": "§7一把由炸药所制作的剑"
+            },
+            "netease:weapon": {
+                "attack_damage": 13,
+                "enchantment": 30,
+                "level": 3,
+                "speed": 10,
+                "type": "sword"
+            }
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "ggvcc:tnt_sword",
+            "register_to_create_menu": true
+        }
+    }
+}

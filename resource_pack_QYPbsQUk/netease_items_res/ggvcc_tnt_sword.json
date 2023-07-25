@@ -1,0 +1,13 @@
+{
+    "format_version": "1.10",
+    "minecraft:item": {
+        "components": {
+            "minecraft:icon": "ggvcc:tnt_sword"
+        },
+        "description": {
+            "category": "Equipment",
+            "identifier": "ggvcc:tnt_sword",
+            "register_to_create_menu": true
+        }
+    }
+}
